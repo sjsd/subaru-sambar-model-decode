@@ -139,7 +139,7 @@ function App() {
 
       {showImage && (
         <div className='max-w-4xl mx-auto my-6'>
-          <img src="/src/assets/vinplate.jpeg" />
+          <img src="/vinplate.jpeg" />
         </div>
       )}      
       
